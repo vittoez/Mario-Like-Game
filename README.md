@@ -106,7 +106,3 @@ Feel free to contribute by:
 - Suggesting new features.
 - Submitting pull requests.
 
----
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
